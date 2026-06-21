@@ -5,10 +5,9 @@ description: Run a time-and-energy audit and produce a ranked "automate first" l
 
 # Time & Energy Audit
 
-The entry point to this whole kit. Before automating anything, find the tasks worth
-automating: the ones that are repeatable, draining, and below the executive's time. Then
-map each to a skill here. The twist on the classic buy-back-your-time move: delegation
-here means delegating to the agent, not hiring a person.
+The entry point to this kit. Before automating anything, find the tasks worth automating:
+the repeatable, draining ones that sit below the executive's hourly value. Then map each to
+a skill here. Here you delegate to the agent instead of hiring a person.
 
 ## When to use
 Use automatically when the executive says any of:
@@ -17,10 +16,9 @@ Use automatically when the executive says any of:
 - describes a typical week and asks what to hand off
 
 ## The honest-snapshot rule
-The audit only works on a real week, not a flattering memory. Ask for an actual recent
-week (or the last few days, recalled honestly). Don't let vagueness through, "email" is
-not a task; "triage and reply to client email, about 90 min/day" is. You can't hand off a
-week you won't look at squarely.
+The audit needs a real, honestly recalled week, the last few days if that is easier. Don't
+let vagueness through. "Email" is too vague; have them write "triage and reply to client
+email, about 90 min/day." You can't hand off a week you won't look at squarely.
 
 ## Workflow
 1. **Capture the week.** Ask for recurring tasks and rough hours. Prompt by category if
@@ -51,7 +49,7 @@ week you won't look at squarely.
 
 ## Output style
 - A short table: Task | Hours/wk | Energy | Automate with | Hours reclaimed.
-- Lead with the single highest-leverage automation, not the longest list.
+- Lead with the single highest-impact automation; keep the list short.
 - Keep it to one screen. The point is to start, not to plan forever.
 
 ## Example

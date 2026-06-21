@@ -1,4 +1,4 @@
-# Dayta Analytics, Coding Agents for Executives
+# Dayta Analytics: Coding Agents for Executives
 
 > A starter kit that turns a coding agent (Claude Code or Codex) into a chief of staff
 > for your data, your reports, your decks, and your inbox, so you can buy back the hours
@@ -6,15 +6,13 @@
 
 ## The idea in one minute
 
-You are the constraint. Not as an insult, as arithmetic: in most organizations the
-reports, the decks, the "quick replies," and the document reviews all route through one
-desk, and the place can't move faster than that desk clears. The usual answer is to work
-longer. That doesn't move the constraint; it just runs it hotter.
+You are the constraint. In most organizations the reports, the decks, the "quick replies,"
+and the document reviews all route through one desk, and the place can't move faster than
+that desk clears. Working longer hours only runs that bottleneck hotter.
 
-There's a better answer. Most of what lands on that desk is repeatable, low-leverage, and
-quietly draining, work that ended up there by default, not by design. A coding agent can
-take that work and do it in seconds. Your hours move up to the judgment, the
-relationships, and the decisions that only you can make.
+Most of what lands on that desk is repeatable, low-value, and draining. It ended up there
+by default. A coding agent can do that work in seconds, which frees your hours for the
+judgment and the client relationships only you can handle.
 
 The sequence is deliberate:
 
