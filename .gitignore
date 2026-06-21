@@ -1,0 +1,18 @@
+# Never commit secrets, these hold the keys to your data
+.env
+*.env
+!.env.example
+service-account*.json
+*-key.json
+credentials*.json
+*.pem
+
+# Local working files
+out/
+*.pptx
+*.pdf
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
