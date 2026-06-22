@@ -45,6 +45,9 @@ playbooks. When asked for one of these, open the matching file and follow it:
 - a live dashboard → `.claude/skills/dashboard/SKILL.md`
 - prep me for a meeting → `.claude/skills/brief/SKILL.md`
 - turn a meeting into tasks → `.claude/skills/meeting-tasks/SKILL.md`
+- background or due diligence → `.claude/skills/research/SKILL.md`
+- a risk or compliance check → `.claude/skills/compliance/SKILL.md`
+- a question across my files and data → `.claude/skills/knowledge-base/SKILL.md`
 - a reply to a pasted email → `.claude/skills/email-reply/SKILL.md`
 - a slide deck / PowerPoint → `.claude/skills/deck-builder/SKILL.md`
 - digest a long document/contract → `.claude/skills/doc-summarize/SKILL.md`

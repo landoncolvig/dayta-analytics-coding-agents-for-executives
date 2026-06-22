@@ -56,6 +56,9 @@ fit:
 - **dashboard**, when I want a live view I can open any time, not a one-off report.
 - **brief**, before a meeting or call, a one-page prep from my data and history.
 - **meeting-tasks**, turn a recorded meeting into decisions and tracked tasks.
+- **research**, background and due diligence with sources.
+- **compliance**, a first-pass risk and obligations check (a screen, not legal advice).
+- **knowledge-base**, answers pulled across my own documents and data.
 - **email-reply**, when I paste an email and ask for a reply.
 - **deck-builder**, when I ask for a slide deck or PowerPoint.
 - **doc-summarize**, when I paste a long document or contract and want it digested.
