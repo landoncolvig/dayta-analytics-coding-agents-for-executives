@@ -59,6 +59,7 @@ fit:
 - **automate**, when I want something to run on its own: it ranks what to automate first,
   then builds it (a scheduled query, an API pipeline into BigQuery, or browser automation
   when there is no API).
+- **pdf-print**, when I want a polished PDF of a report or document the agent built.
 
 ## Safety
 - The `.env` file holds the keys to my data. Never print its contents, never copy it
