@@ -56,6 +56,9 @@ fit:
 - **email-reply**, when I paste an email and ask for a reply.
 - **deck-builder**, when I ask for a slide deck or PowerPoint.
 - **doc-summarize**, when I paste a long document or contract and want it digested.
+- **automate**, when I want something to run on its own: it ranks what to automate first,
+  then builds it (a scheduled query, an API pipeline into BigQuery, or browser automation
+  when there is no API).
 
 ## Safety
 - The `.env` file holds the keys to my data. Never print its contents, never copy it

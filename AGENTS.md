@@ -45,6 +45,7 @@ playbooks. When asked for one of these, open the matching file and follow it:
 - a reply to a pasted email → `.claude/skills/email-reply/SKILL.md`
 - a slide deck / PowerPoint → `.claude/skills/deck-builder/SKILL.md`
 - digest a long document/contract → `.claude/skills/doc-summarize/SKILL.md`
+- something that should run on its own → `.claude/skills/automate/SKILL.md`
 
 ## Safety
 The `.env` holds the keys to the data. Never print, copy, or share it. Anything involving
