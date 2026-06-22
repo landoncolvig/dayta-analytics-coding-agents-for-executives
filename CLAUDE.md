@@ -41,12 +41,17 @@ work only [YOUR NAME] can do.
   `gcloud auth application-default login` or rely on default credentials.
 - Before a query that could scan a lot of data, add a `LIMIT` or a date filter. Never
   `SELECT *` from a large table.
+- Before writing any query, know the schema. Use the **bigquery** skill: consult
+  `DATA_DICTIONARY.md`, introspect the live schema when unsure, and never guess a table or
+  column name.
 
 ## My skills (automations)
 This folder has ready-made skills in `.claude/skills/`. Use them automatically when they
 fit:
 - **time-audit**, when I want to figure out what to hand off, or say "where is my time
   going," walk me through the audit and give me a ranked automate-first list.
+- **bigquery**, the foundation for any data work: learn the live schema and keep a
+  `DATA_DICTIONARY.md` before querying, so the agent never guesses a column name.
 - **data-report**, when I ask for a report, a summary, or "the numbers on X."
 - **email-reply**, when I paste an email and ask for a reply.
 - **deck-builder**, when I ask for a slide deck or PowerPoint.

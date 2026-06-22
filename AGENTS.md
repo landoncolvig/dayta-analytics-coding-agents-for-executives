@@ -33,11 +33,14 @@ the exact words to type and where.
 - Read the service-account key path from the `.env` file in this folder and pass it
   explicitly to the BigQuery client. Never use application-default credentials.
 - Add a `LIMIT` or date filter before any large scan. Never `SELECT *` a big table.
+- Know the schema before querying. Follow `.claude/skills/bigquery/SKILL.md`: consult
+  `DATA_DICTIONARY.md`, introspect when unsure, and never guess a table or column name.
 
 ## Routines
 Codex does not auto-load the `.claude/skills/` folder, but those files are still the
 playbooks. When asked for one of these, open the matching file and follow it:
 - "where is my time going" / what to automate → `.claude/skills/time-audit/SKILL.md`
+- knowing the schema before any query → `.claude/skills/bigquery/SKILL.md`
 - a report / summary / "the numbers" → `.claude/skills/data-report/SKILL.md`
 - a reply to a pasted email → `.claude/skills/email-reply/SKILL.md`
 - a slide deck / PowerPoint → `.claude/skills/deck-builder/SKILL.md`
