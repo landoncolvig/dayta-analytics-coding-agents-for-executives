@@ -42,6 +42,9 @@ playbooks. When asked for one of these, open the matching file and follow it:
 - "where is my time going" / what to automate → `.claude/skills/time-audit/SKILL.md`
 - knowing the schema before any query → `.claude/skills/bigquery/SKILL.md`
 - a report / summary / "the numbers" → `.claude/skills/data-report/SKILL.md`
+- a live dashboard → `.claude/skills/dashboard/SKILL.md`
+- prep me for a meeting → `.claude/skills/brief/SKILL.md`
+- turn a meeting into tasks → `.claude/skills/meeting-tasks/SKILL.md`
 - a reply to a pasted email → `.claude/skills/email-reply/SKILL.md`
 - a slide deck / PowerPoint → `.claude/skills/deck-builder/SKILL.md`
 - digest a long document/contract → `.claude/skills/doc-summarize/SKILL.md`

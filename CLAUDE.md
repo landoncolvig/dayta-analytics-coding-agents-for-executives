@@ -53,6 +53,9 @@ fit:
 - **bigquery**, the foundation for any data work: learn the live schema and keep a
   `DATA_DICTIONARY.md` before querying, so the agent never guesses a column name.
 - **data-report**, when I ask for a report, a summary, or "the numbers on X."
+- **dashboard**, when I want a live view I can open any time, not a one-off report.
+- **brief**, before a meeting or call, a one-page prep from my data and history.
+- **meeting-tasks**, turn a recorded meeting into decisions and tracked tasks.
 - **email-reply**, when I paste an email and ask for a reply.
 - **deck-builder**, when I ask for a slide deck or PowerPoint.
 - **doc-summarize**, when I paste a long document or contract and want it digested.
